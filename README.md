@@ -4,6 +4,8 @@
 >
 > Jenkins 是一个开源软件项目，是基于 Java 开发的一种持续集成、持续部署工具。
 
+#### 博客作者：联系请[点击](https://k8sadmin.info/lian-xi-zuo-zhe)，搬运不易，希望请作者喝咖啡，可以点击[联系博客作者](https://k8sadmin.info/lian-xi-zuo-zhe)
+
 ## 知识大纲
 
 * [Jenkins 快速指南](docs/jenkins-quickstart.md)
@@ -25,3 +27,4 @@
 
 * `java` branch 是一个 jenkins 构建 Java 项目的示例。
 * `js` branch 是一个 jenkins 构建 Js 项目的示例。
+
